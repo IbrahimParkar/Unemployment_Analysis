@@ -19,5 +19,5 @@ The analysis is based on a dataset obtained from Kaggle, which includes informat
 
 - April and May showed the highest unemployment rates across states such as Puducherry, Tamil Nadu, Jharkhand, Bihar, and Haryana.
 - Northern states, southern states, and eastern states experienced the highest unemployment rates during April and May.
-- The analysis revealed that the lockdown had the most significant impact on Puducherry, while Meghalaya was relatively less affected.
+- The analysis revealed that the lockdown had the most significant impact on Puducherry, while Meghalaya was relatively the least affected.
 - North India exhibited the highest overall unemployment rate, followed by South India, East India, Northwest India, and West India.
